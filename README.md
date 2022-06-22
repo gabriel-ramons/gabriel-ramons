@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Desenvolvimento Salesforce
-- 🌱 Estudando HTML e CSS.
+- 🌱 Estudando HTML, CSS e JavaScript
 - 📫 Contato: gabriel.ramons@gmail.com
 
 <div align="center">
